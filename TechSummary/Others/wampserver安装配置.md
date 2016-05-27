@@ -31,5 +31,15 @@
   AllowOverride All
 
   (2)去掉下面的注释
-  LoadModule rewrite_module modules/mod_rewrite.so 
+  LoadModule rewrite_module modules/mod_rewrite.so
+7.允许外部访问：
+  找到安装目录下bin/apache/apache***/conf/httpd
+  找到
+  AllowOverride all
+  Require all denied
+  改为
+  AllowOverride all
+  Require all granted
+  
+  将Require local注释掉 
 ```

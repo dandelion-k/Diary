@@ -2,4 +2,4 @@
 
 Here are my summaries about technology and life.
 
-Any quetions please contact me by <a href="mailto:xiu_happy@qq.com">e-mail</a>.
+Any quetions please contact me by <a href="mailto:snailxiu@gmail.com">snailxiu@gmail.com</a>.
