@@ -2,7 +2,7 @@
 
 #### 兼容html
 markdown只包含html标签的一部分，对于没有被包含的html标签，可以直接在md中使用。但是html区块元素比如`<div>、<table>、<pre>、<p>`等标签，必须在前后加上空行与其他内容隔开，还要求他们的开始标签与结尾标签不能用制表符或空格来缩进。例如：
-<input type=hidden value="Just for preview ! You can ignore it.">
+<input type=hidden value="Just for something ! You can ignore it.">
 
 ```html
 这是一个普通段落。
